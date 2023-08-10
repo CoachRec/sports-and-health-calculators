@@ -36,6 +36,10 @@ In progress: Setting up on NPM Currently
 
 _More calculators will be added in future versions. If you have a suggestion or request, please raise an issue._
 
+## Roadmap
+
+In progress: will set up a table here for the future calculators
+
 ## Contributing
 
 We welcome contributions from the community. If you'd like to add a calculator or improve an existing one, please follow these steps:
