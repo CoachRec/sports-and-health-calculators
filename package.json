@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/CoachRec/sports-and-health-calculators/issues"
   },
-  "homepage": "https://github.com/CoachRec/sports-and-health-calculators#readme"
+  "homepage": "https://github.com/CoachRec/sports-and-health-calculators#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
 }
