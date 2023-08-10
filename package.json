@@ -1,0 +1,23 @@
+{
+  "name": "sports-and-health-calculators",
+  "version": "1.0.0",
+  "description": "Health and sport calculators for easy use in JS applications",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoachRec/sports-and-health-calculators.git"
+  },
+  "keywords": [
+    "sports",
+    "health"
+  ],
+  "author": "CoachRec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoachRec/sports-and-health-calculators/issues"
+  },
+  "homepage": "https://github.com/CoachRec/sports-and-health-calculators#readme"
+}
