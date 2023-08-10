@@ -2,11 +2,12 @@
 
 # Sports & Health Calculators
 
-An open-source collection of calculators and computations for various sports and health-related metrics. Proudly presented by **CoachRec**.
+An open-source collection of calculators and computations for various sports and health-related metrics. Proudly presented by [**CoachRec**](https://www.coachrec.com).
 
 ![version](https://img.shields.io/badge/version-0.0.1-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## Table of Contents
+
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Usage](#usage)
@@ -17,7 +18,7 @@ An open-source collection of calculators and computations for various sports and
 
 ## Introduction
 
-Whether you're developing an application for athletes, fitness enthusiasts, or anyone keen on tracking their health metrics, our library provides accurate and efficient calculators to help you integrate these functionalities seamlessly.
+Whether you're developing an application for athletes, fitness enthusiasts, or anyone keen on tracking their health metrics, our library is here to help you
 
 ## Installation
 
@@ -32,8 +33,8 @@ In progress: Setting up on NPM Currently
 - **BMI**
   - Metric (`calculateBMIMetric`)
   - Imperial (`calculateBMIImperial`)
-  
-*More calculators will be added in future versions. If you have a suggestion or request, please raise an issue.*
+
+_More calculators will be added in future versions. If you have a suggestion or request, please raise an issue._
 
 ## Contributing
 
@@ -52,4 +53,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any queries or feedback, please raise an issue on the GitHub repository or contact **CoachRec** through our [official website](#).
+For any queries or feedback, please raise an issue on the GitHub repository or contact **CoachRec** through our [official website](https://www.coachrec.com).
