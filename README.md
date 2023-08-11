@@ -22,7 +22,11 @@ Whether you're developing an application for athletes, fitness enthusiasts, or a
 
 ## Installation
 
-In progress: Setting up on NPM Currently
+To install the package from NPM, use the following command:
+
+```bash
+npm install @coachrec/sports-health-calculators
+```
 
 ## Usage
 

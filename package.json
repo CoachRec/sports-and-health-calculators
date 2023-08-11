@@ -1,11 +1,12 @@
 {
   "name": "sports-and-health-calculators",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Health and sport calculators for easy use in JS applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
+    "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
