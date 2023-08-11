@@ -30,7 +30,11 @@ npm install @coachrec/sports-health-calculators
 
 ## Usage
 
-In progress: Setting up on NPM Currently
+Once installed, you can import the required calculators as follows:
+
+```javascript
+const { calculateBMIMetric, calculateBMIImperial } = require('@coachrec/sports-health-calculators');
+```
 
 ## Available Calculators
 
